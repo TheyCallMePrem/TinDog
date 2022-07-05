@@ -18,6 +18,7 @@ The site is responsive and has a number of active states.
 ### Mobile view
 
 ![](https://github.com/TheyCallMePrem/TinDog/blob/f9c571ae3098dfc9503b20dea276024601892a40/images/screen-capture-1-2.gif)
+#### Mobile view images
 ![](https://github.com/TheyCallMePrem/TinDog/blob/adfa5571fdca51c5ebe4f26596a7f336bc8d2296/images/mobile-1.JPG)
 ![](https://github.com/TheyCallMePrem/TinDog/blob/adfa5571fdca51c5ebe4f26596a7f336bc8d2296/images/mobile-2.JPG)
 ![](https://github.com/TheyCallMePrem/TinDog/blob/adfa5571fdca51c5ebe4f26596a7f336bc8d2296/images/mobile-3.JPG)
@@ -27,7 +28,7 @@ The site is responsive and has a number of active states.
 
 - Live Site URL: [Click](https://theycallmeprem.github.io/TinDog/)
 
-## My process
+
 
 ## Author
 
