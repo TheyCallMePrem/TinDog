@@ -5,7 +5,7 @@ The site is responsive 💻📱🖥 and has a number of active states.
 
 ## Table of contents
 
-- [View](#view)👀
+- [View](#view) 👀
 
 - [Live Site](#Site) 🌐
 
