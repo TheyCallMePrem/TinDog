@@ -1,15 +1,15 @@
 TinDog Starting Files
 
 This is a my implementation of TinDog landing page, implements basic html and css features.
-The site is responsive and has a number of active states.
+The site is responsive 💻📱🖥 and has a number of active states.
 
 ## Table of contents
 
-- [View](#view)
+- [View](#view)👀
 
-- [Live Site](#Site)
+- [Live Site](#Site) 🌐
 
-- [Author](#author)
+- [Author](#author) ✍️
 
 ## View
 
@@ -26,7 +26,7 @@ The site is responsive and has a number of active states.
 
 ## Site
 
-- Here is the link to live site, check it out to see how the webpage feels!: [Click](https://theycallmeprem.github.io/TinDog/)
+- Here is the link to live site, check it out to see how the webpage feels!: [Click](https://theycallmeprem.github.io/TinDog/) 🚀
 
 
 
