@@ -13,7 +13,7 @@ The site is responsive and has a number of active states.
 
 ## View
 
-![](\images\screen-capture.gif)
+![](https://github.com/TheyCallMePrem/TinDog/blob/92c0e19404a06b644d381b289a08e840eb3e4d58/images/screen-capture.gif)
 
 ### Mobile view
 
