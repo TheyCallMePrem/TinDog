@@ -17,11 +17,11 @@ The site is responsive and has a number of active states.
 
 ### Mobile view
 
-![](images\screen-capture-1-2.gif)
-![](images\mobile-1.JPG)
-![](images\mobile-2.JPG)
-![](images\mobile-3.JPG)
-![](images\mobile-4.JPG)
+![](\images\screen-capture-1-2.gif)
+![](\images\mobile-1.JPG)
+![](\images\mobile-2.JPG)
+![](\images\mobile-3.JPG)
+![](\images\mobile-4.JPG)
 
 ## Links
 
