@@ -7,7 +7,7 @@ The site is responsive and has a number of active states.
 
 - [View](#view)
 
-- [Links](#links)
+- [Live Site](#Site)
 
 - [Author](#author)
 
@@ -24,9 +24,9 @@ The site is responsive and has a number of active states.
 ![](https://github.com/TheyCallMePrem/TinDog/blob/adfa5571fdca51c5ebe4f26596a7f336bc8d2296/images/mobile-3.JPG)
 ![](https://github.com/TheyCallMePrem/TinDog/blob/adfa5571fdca51c5ebe4f26596a7f336bc8d2296/images/mobile-4.JPG)
 
-## Links
+## Site
 
-- Live Site URL: [Click](https://theycallmeprem.github.io/TinDog/)
+- Here is the link to live site, check it out to see how the webpage feels!: [Click](https://theycallmeprem.github.io/TinDog/)
 
 
 
