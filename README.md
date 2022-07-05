@@ -13,7 +13,7 @@ The site is responsive and has a number of active states.
 
 ## View
 
-![](images\screen-capture.gif)
+![](\images\screen-capture.gif)
 
 ### Mobile view
 
