@@ -1,6 +1,6 @@
 TinDog Starting Files
 
-This is a my implementation of TinDog landing page, implements basic HTML  CSS and Bootstrap features.
+This is a my implementation of TinDog landing page, implements basic HTML, CSS and Bootstrap features.
 The site is responsive 💻📱🖥 and has a number of active states.
 
 ## Table of contents
