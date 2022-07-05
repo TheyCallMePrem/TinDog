@@ -17,7 +17,7 @@ The site is responsive and has a number of active states.
 
 ### Mobile view
 
-![](\images\screen-capture-1-2.gif)
+![](https://github.com/TheyCallMePrem/TinDog/blob/f9c571ae3098dfc9503b20dea276024601892a40/images/screen-capture-1-2.gif)
 ![](\images\mobile-1.JPG)
 ![](\images\mobile-2.JPG)
 ![](\images\mobile-3.JPG)
